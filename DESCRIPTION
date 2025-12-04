@@ -10,7 +10,7 @@ Authors@R: person(
     role = c("aut", "cre"))
 Description: Provides a full-featured R client for 'CoW Protocol'. Submit limit and market orders,
     query the subgraph via 'GraphQL' and upload appData to 'IPFS'. Designed for quantitative traders,
-    researchers, and DeFi developers using R.
+    researchers, and DeFi developers using R. This package is not financial or trading advice.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
