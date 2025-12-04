@@ -5,12 +5,12 @@ An R client for 'CoW Protocol': built for quantitative traders, researchers, and
 
 ## Features
 
--   Place limit and market orders directly from R\
--   Query the CoW Protocol subgraph using `GraphQL` → tidy tibbles\
--   Upload and pin appData to `IPFS`\
--   Automatic developer attribution (UTM tags) on every order\
--   Full EIP-712 signing support (via private key or custom signer)\
--   Built-in rate limiting, error handling, and informative messages\
+-   Place limit and market orders directly from R
+-   Query the CoW Protocol subgraph using `GraphQL` → tidy tibbles
+-   Upload and pin appData to `IPFS`
+-   Automatic developer attribution (UTM tags) on every order
+-   Full EIP-712 signing support (via private key or custom signer)
+-   Built-in rate limiting, error handling, and informative messages
 -   Designed for backtesting, research, and production trading workflows
 
 ## Installation
