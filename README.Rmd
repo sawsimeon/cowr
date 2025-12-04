@@ -1,9 +1,4 @@
----
-title: "cowr: CoW Protocol SDK for R"
-output: rmarkdown::html_vignette
----
-
-# cowr 
+# cowr: CoW Protocol SDK for R
 
 An R client for 'CoW Protocol': built for quantitative traders, researchers, and DeFi developers.
 
